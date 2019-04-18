@@ -1,4 +1,6 @@
 /**
  * Created by gagan on 18/4/19.
  */
-var i;
+function multiply(number){
+    alert(number*number*number);
+}
